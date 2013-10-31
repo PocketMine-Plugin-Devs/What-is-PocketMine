@@ -7,3 +7,8 @@ Who are we?
 ==================
 
 We make plugins that add to PocketMine to change to gameplay and other aspects of the game
+
+Plugin Function List
+==================
+
+A list of plugin functions and APIs is on the [wiki] (https://github.com/PocketMine-Plugin-Devs/What-is-PocketMine/wiki/Function-List)
